@@ -47,7 +47,6 @@ public class CardTrick {
         
         //Then report the result here
         // add one luckcard hard code 2,clubs
-        Card luckyCard = new Card(2, "Clubs"); // hardcoded from git webpage
     }
     
 }
